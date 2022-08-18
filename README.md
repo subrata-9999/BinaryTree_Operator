@@ -1,2 +1,2 @@
 # BinaryTree_Operator
-Console based program based on Binary Tree Data Structures. Here, you can do approximately all the Binary Tree based operations.
+Console based program build with Binary Tree Data Structures. Here, you can do approximately all the Binary Tree based operations.
