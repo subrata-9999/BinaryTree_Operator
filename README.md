@@ -3,4 +3,4 @@
 ![Binarytree_operator4](https://user-images.githubusercontent.com/109057053/185805652-a729e03a-94ef-4e63-b9f7-7be61075ce7b.png)
 
 # BinaryTree_Operator
-Console based program build with Binary Tree Data Structures. Here, you can do approximately all the Binary Tree based operations. 
+Console based program build with Binary Tree Data Structures. Here, you can do approximately all the Binary Tree based operations.
